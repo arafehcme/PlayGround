@@ -27,7 +27,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-
+//todo this is dev mode
 public class MainActivity extends AppCompatActivity
 {
     private static final int VPN_REQUEST_CODE = 0x0F;
